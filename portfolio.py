@@ -37,4 +37,5 @@ with tab2:
     st.write("3 stars in problem solving - hackerrank")
     st.write("4 stars in c language - hackerrank")
     st.write('58442 Global rank - codechef')
+    st.write('19,17,513 Global rank - Leetcode')
 

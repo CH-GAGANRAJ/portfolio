@@ -7,8 +7,8 @@ with co2:
     st.info("Hello every one my self CH.GAGAN RAJ Iam presenting you my portfolio "
             "web page bulid by python."
             "Iam doing my Btech in CMR THENCAL CAMPUS in the department AIML."
-            "Iam a student and my passout year is 2026"
-            "Iam very much passionate about learning new technologies" 
+            "Iam a student and my passout year is 2026. "
+            "Iam very much passionate about learning new technologies. " 
             "you can know my projects down the page")
 st.subheader("ABOUT ME")
 img=[('image/pro.jpg','translation bot using python'),('image/web.png','Redircting urls using c'),('image/todo.jpg','todo using python')]

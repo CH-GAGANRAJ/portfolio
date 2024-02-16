@@ -1,8 +1,9 @@
 import streamlit as st
 
+st.title("Hello I'm CH.GAGAN RAJ\n")
 co1,co2=st.columns(2)
 with co1:
-    st.title("Hello I'm CH.GAGAN RAJ\n")
+    st.image('image/myimg.jpg',width=250)
 with co2:
     st.info("Hello every one my self CH.GAGAN RAJ Iam presenting you my portfolio "
             "web page bulid by python."
